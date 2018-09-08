@@ -1,6 +1,6 @@
 import java.utils
 
-function conflict(){
+function tesst<F2>(){
 }
 
 function test(){

@@ -1,5 +1,8 @@
 import java.utils
 
+function tesst<F2>(){
+}
+
 function test(){
 
 }

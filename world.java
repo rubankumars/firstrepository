@@ -1,5 +1,9 @@
 import java.io.*
 
-public static void main(String args[]){
+function test()
+{
+}
 
+public static void main(String args[]){
+	test();
 }
